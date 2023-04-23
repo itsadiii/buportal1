@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "939092589621",
+    "project_id": "buportal1",
+    "storage_bucket": "buportal1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939092589621:android:a063ddcfded12b6f06c57c",
+        "android_client_info": {
+          "package_name": "com.example.portal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939092589621-0deprp97tvnrcmtia7r1oq1d16tjhg4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2dYTI0hLE9uzTQ3dpCJ4uMrrYjC5cDJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939092589621-0deprp97tvnrcmtia7r1oq1d16tjhg4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
